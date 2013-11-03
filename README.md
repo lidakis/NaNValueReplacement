@@ -1,7 +1,7 @@
 NaNValueReplacement()
 ===================
 
-JavaScript Function for 'Error Handling' NaN Value Replacement 
+JavaScript Function for 'Error Handling' NaN Value Replacement.
 
 A Javascript function in order to replace NaN Value In your App.
 You can use with unlimited arguments or variables, for instance 'NaNValueReplacement(var1,var2,var3, etc...);'.
